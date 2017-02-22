@@ -10,16 +10,12 @@ body {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  
+  padding: 0; 
 }
 
 li {
   display: inline;
-  background-color:
+  background-color: 
 }  
 
 li a {
