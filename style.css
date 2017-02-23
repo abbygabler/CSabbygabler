@@ -12,11 +12,14 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0; 
+  text-align: center;
 }
 
 li {
   display: inline;
   background-color: #4d4d4d;
+  color: #000000;
+  font-family:
 }  
 
 li a {
