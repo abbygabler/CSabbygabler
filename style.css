@@ -1,12 +1,13 @@
 body {
-background-color: #737373;
+background-color: #999999;
 }
 
 
 h1 {
   text-align: center;
   color: #1a1a1a;
-  font-family: 
+  text-decoration: underline; 
+  
 }
 
 ul {
