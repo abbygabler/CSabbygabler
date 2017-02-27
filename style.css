@@ -22,15 +22,16 @@ li {
   display: inline;
   background-color: #4d4d4d;
   color: #000000;
-  font-family:
 }  
 
 li a {
   text-align: center;
-  color: #000000;
+  color: #cccccc;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 li a:hover {
   background-color: #000000;
   color: #ffffff;
 }    
+
