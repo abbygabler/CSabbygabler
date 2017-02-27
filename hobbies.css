@@ -1,1 +1,40 @@
+body {
+background-color: #999999;
+}
 
+
+h1 {
+  text-align: center;
+  color: #1a1a1a;
+  text-decoration: underline; 
+  font-family: "Trebuchet MS", Helvetica, sans-serif; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
+  text-align: center;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  background-color: #4d4d4d;
+  color: #000000;
+}  
+
+li a {
+  text-align: center;
+  color: #cccccc;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+li a:hover {
+  background-color: #000000;
+  color: #ffffff;
+}    
+
+p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}  
